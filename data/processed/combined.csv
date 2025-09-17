@@ -1,0 +1,21 @@
+Fecha,Categoría,Tipo,Monto,__source_file,Campaña,Leads,Conversiones,ID,Producto,Stock,Almacén,Cantidad,PrecioUnitario,Total,FechaPedido,Cliente,País
+2025-09-01,Ventas,Ingreso,500.0,ingresos_gastos_1.xlsx,,,,,,,,,,,,,
+2025-09-01,Alquiler,Gasto,200.0,ingresos_gastos_1.xlsx,,,,,,,,,,,,,
+2025-09-02,Servicios,Gasto,100.0,ingresos_gastos_1.xlsx,,,,,,,,,,,,,
+2025-09-02,Ventas,Ingreso,750.0,ingresos_gastos_1.xlsx,,,,,,,,,,,,,
+2025-09-01,,,,leads_marketing_1.csv,Facebook Ads,120.0,12.0,,,,,,,,,,
+2025-09-01,,,,leads_marketing_1.csv,Google Ads,90.0,15.0,,,,,,,,,,
+2025-09-01,,,,leads_marketing_1.csv,LinkedIn,30.0,2.0,,,,,,,,,,
+2025-09-02,,,,leads_marketing_1.csv,Facebook Ads,110.0,10.0,,,,,,,,,,
+2025-09-02,,,,leads_marketing_1.csv,Google Ads,95.0,14.0,,,,,,,,,,
+2025-09-02,,,,leads_marketing_1.csv,LinkedIn,40.0,3.0,,,,,,,,,,
+,,,,inventario_1.csv,,,,101.0,Laptop,25.0,Madrid,,,,,,
+,,,,inventario_1.csv,,,,102.0,Monitor,40.0,Barcelona,,,,,,
+,,,,inventario_1.csv,,,,103.0,Teclado,100.0,Madrid,,,,,,
+,,,,inventario_1.csv,,,,104.0,Mouse,150.0,Valencia,,,,,,
+2025-09-10,,,,ventas_2025-09-10_1.csv,,,,,Manzanas,,,10.0,0.5,5.0,,,
+2025-09-10,,,,ventas_2025-09-10_1.csv,,,,,Peras,,,7.0,0.6,4.2,,,
+2025-09-10,,,,ventas_2025-09-10_1.csv,,,,,Plátanos,,,15.0,0.3,4.5,,,
+,,,,ventas_online_1.xlsx,,,,,Camiseta,,,2.0,15.0,30.0,2025-09-01,Juan Pérez,España
+,,,,ventas_online_1.xlsx,,,,,Zapatos,,,1.0,40.0,40.0,2025-09-01,Maria Gómez,México
+,,,,ventas_online_1.xlsx,,,,,Pantalón,,,3.0,25.0,75.0,2025-09-02,Luca Bianchi,Italia

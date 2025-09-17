@@ -1,0 +1,750 @@
+2025-09-16 10:52:33,320 | INFO | autoreport | Inicio de ejecución
+2025-09-16 10:52:34,495 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 10:52:36,820 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 10:52:36,821 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 10:52:36,822 | INFO | autoreport | [NO SLACK CONFIG] ⚠️ No se descargaron adjuntos con la query dada.
+2025-09-16 11:09:31,427 | INFO | autoreport | Spreadsheet Title: Reporte Correos (Demo PAULA)
+2025-09-16 11:09:31,428 | INFO | autoreport | Spreadsheet ID: 1crQpvd76t8JW9ccsNCH9KM-OobmxuQR4cebn3ruqD24
+2025-09-16 11:09:31,428 | INFO | autoreport | Gmail Query: has:attachment newer_than:7d filename:(csv OR xlsx)
+2025-09-16 11:09:31,429 | INFO | autoreport | Data dir: C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\data
+2025-09-16 11:09:31,431 | INFO | autoreport | Slack webhook: set
+2025-09-16 11:10:48,073 | INFO | autoreport | Inicio de ejecución
+2025-09-16 11:10:48,724 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 11:10:51,022 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 11:10:51,023 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 11:41:55,912 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 11:42:52,547 | INFO | autoreport | Inicio de ejecución
+2025-09-16 11:42:53,564 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 11:42:57,207 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 11:42:57,208 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 11:56:38,871 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 12:15:33,328 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:15:35,606 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:15:39,541 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:15:39,542 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:15:40,063 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:15:40,883 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:15:44,920 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:15:44,921 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:15:45,206 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:15:46,066 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:15:49,301 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:15:49,302 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:24:48,988 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:24:49,711 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:24:52,114 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:24:52,115 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:25:25,809 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:25:26,415 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:25:28,543 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:25:28,543 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:35:06,898 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 12:38:22,229 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:38:23,049 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:38:26,327 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:38:26,328 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:38:27,711 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:38:28,597 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:38:32,200 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:38:32,201 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:41:48,314 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 12:42:11,085 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:42:12,061 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:42:15,781 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:42:15,782 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:42:16,157 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:42:17,045 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:42:20,713 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:42:20,715 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:42:21,017 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:42:21,856 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:42:25,530 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:42:25,531 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:42:25,905 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:42:26,706 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:42:30,385 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:42:30,386 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:42:30,647 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:42:31,705 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:42:35,381 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:42:35,383 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:42:35,881 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:42:36,739 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:42:40,466 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:42:40,467 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:42:40,792 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:42:41,649 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:42:45,317 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:42:45,318 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:42:45,600 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:42:46,373 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:42:50,506 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:42:50,507 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:42:50,794 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:42:51,858 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:42:56,020 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:42:56,021 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:42:56,317 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:42:57,161 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:42:59,697 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:42:59,698 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 12:43:00,002 | INFO | autoreport | Inicio de ejecución
+2025-09-16 12:43:00,715 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 12:43:02,893 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 12:43:02,893 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 16:43:24,923 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 16:45:09,490 | INFO | autoreport | Inicio de ejecución
+2025-09-16 16:45:10,789 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 16:45:13,360 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 16:45:13,361 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 16:54:29,795 | INFO | autoreport | Inicio de ejecución
+2025-09-16 16:54:30,434 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 16:54:32,872 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 16:54:32,873 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 16:54:55,638 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 17:02:58,411 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:02:59,058 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 17:03:01,401 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 17:03:01,401 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 17:03:13,825 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 17:03:20,702 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:03:21,509 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 17:03:24,692 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 17:03:24,692 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 17:04:23,638 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:04:24,528 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 17:04:27,917 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 17:04:27,919 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 17:08:23,642 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:08:24,369 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 17:08:26,730 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 17:08:26,731 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 17:12:34,278 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:12:34,809 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:12:40,414 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:12:40,849 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:12:46,311 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:12:46,791 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:13:25,309 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:13:25,863 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:13:31,313 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:13:31,770 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:13:37,180 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:13:37,600 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:14:46,441 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 17:14:55,325 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:14:55,871 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:15:01,407 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:15:01,857 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:15:07,287 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:15:07,728 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:17:07,405 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 17:17:38,035 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:17:38,505 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:17:44,031 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:17:44,454 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:17:49,922 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:17:50,361 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:18:53,723 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:18:54,223 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:18:59,716 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:19:00,145 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:19:05,577 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:19:06,013 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:21:45,262 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:21:45,773 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:22:42,712 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:22:43,160 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:22:47,822 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:22:48,272 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:22:50,947 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:22:51,357 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:22:54,610 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:22:55,013 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:24:55,832 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:24:56,455 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:30:18,030 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 17:30:23,486 | INFO | autoreport | HTTP 127.0.0.1 - "GET /health HTTP/1.1" 200 -
+2025-09-16 17:32:29,125 | INFO | autoreport | Spreadsheet Title: Reporte Correos (Demo PAULA)
+2025-09-16 17:32:29,126 | INFO | autoreport | Spreadsheet ID: 1crQpvd76t8JW9ccsNCH9KM-OobmxuQR4cebn3ruqD24
+2025-09-16 17:32:29,127 | INFO | autoreport | Gmail Query: has:attachment newer_than:7d filename:(csv OR xlsx)
+2025-09-16 17:32:29,127 | INFO | autoreport | Data dir: C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\data
+2025-09-16 17:32:29,128 | INFO | autoreport | Slack webhook: set
+2025-09-16 17:32:38,293 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 17:33:04,953 | INFO | autoreport | /run called with q='has:attachment newer_than:7d filename:(csv OR xlsx)'
+2025-09-16 17:33:04,954 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:33:05,810 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:33:06,209 | INFO | autoreport | HTTP 127.0.0.1 - "GET /run?q=has:attachment%20newer_than:7d%20filename:(csv%20OR%20xlsx) HTTP/1.1" 500 -
+2025-09-16 17:33:06,374 | INFO | autoreport | HTTP 127.0.0.1 - "GET /favicon.ico HTTP/1.1" 404 -
+2025-09-16 17:33:27,770 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:33:28,178 | ERROR | autoreport | Fallo inesperado: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\main.py", line 20, in run
+    files = download_attachments(gmail_query)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 72, in download_attachments
+    for msg in _gmail_list_messages(query):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\fetch_gmail.py", line 31, in _gmail_list_messages
+    svc = gmail_service()
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 53, in gmail_service
+    creds = _get_credentials()
+            ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\src\auth_gmail.py", line 42, in _get_credentials
+    creds.refresh(Request())  # intenta refrescar silenciosamente
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "C:\Users\PaulaSanjuan\Desktop\CURSO\PROYECTOS\auto-reporting\.venv\Lib\site-packages\google\oauth2\_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-09-16 17:37:21,934 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:37:34,164 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 17:37:36,550 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 17:37:36,550 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 17:38:07,367 | INFO | autoreport | HTTP server on 0.0.0.0:8080
+2025-09-16 17:38:32,043 | INFO | autoreport | /run called with q='has:attachment newer_than:7d filename:(csv OR xlsx)'
+2025-09-16 17:38:32,047 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:38:32,941 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 17:38:36,709 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 17:38:36,711 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 17:38:37,122 | INFO | autoreport | HTTP 127.0.0.1 - "GET /run?q=has:attachment%20newer_than:7d%20filename:(csv%20OR%20xlsx) HTTP/1.1" 200 -
+2025-09-16 17:38:37,263 | INFO | autoreport | HTTP 127.0.0.1 - "GET /favicon.ico HTTP/1.1" 404 -
+2025-09-16 17:39:06,489 | INFO | autoreport | /run called with q='has:attachment newer_than:7d filename:(csv OR xlsx)'
+2025-09-16 17:39:06,490 | INFO | autoreport | Inicio de ejecución
+2025-09-16 17:39:07,601 | INFO | autoreport | Mensajes encontrados: 4
+2025-09-16 17:39:12,026 | WARNING | autoreport | No se ha descargado ningún adjunto.
+2025-09-16 17:39:12,026 | WARNING | autoreport | No se descargaron adjuntos con la query dada.
+2025-09-16 17:39:12,288 | INFO | autoreport | HTTP 127.0.0.1 - "GET /run?q=has:attachment%20newer_than:7d%20filename:(csv%20OR%20xlsx) HTTP/1.1" 200 -
