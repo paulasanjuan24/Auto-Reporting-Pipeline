@@ -39,7 +39,7 @@ Este proyecto implementa un **pipeline ETL** end-to-end:
 ```mermaid
 flowchart LR
     Gmail[Gmail API] --> Fetch[fetch_gmail.py]
-    Fetch --> Process[process_reports.py\nLimpieza + Validación]
+    Fetch --> Process[process_reports.py/Limpieza + Validación]
     Process --> Files[combined.csv/xlsx]
     Process --> Sheets[Google Sheets]
     Sheets --> BI[Power BI]
