@@ -18,12 +18,11 @@ Este proyecto implementa un **pipeline ETL** end-to-end:
    - Conversión de tipos (fechas, numéricos, strings).  
    - **Validación de calidad** con Pandera:  
      - Ventas, Leads, Inventario, Finanzas.  
-     - Reglas de negocio (ej: `total = cantidad * precio_unitario`).  
    - Datos inválidos → se aíslan en pestaña `invalid`.
 
 3. **Load**  
    - Exportación a `combined.csv` y `combined.xlsx`.  
-   - Publicación en Google Sheets (pestañas `raw_clean` y `summary`).  
+   - Publicación en Google Sheets.  
    - Integración con Power BI para dashboards.
 
 4. **Operación**  
